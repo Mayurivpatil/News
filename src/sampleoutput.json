@@ -1,0 +1,46 @@
+{
+  "status": "ok",
+  "totalResults": 4,
+  "articles": [
+    {
+      "source": { "id": "news24", "name": "News24" },
+      "author": "Herman Mostert",
+      "title": "Proteas Women to host New Zealand in ODI and T20 series",
+      "description": "Cricket South Africa has announced that New Zealand will tour these shores later this year for limited overs series against the Proteas Women.",
+      "url": "https://www.news24.com/sport/cricket/proteas/proteas-women-to-host-new-zealand-in-odi-and-t20-series-20230621",
+      "urlToImage": "https://cdn.24.co.za/files/Cms/General/d/2614/22176178ad7b4aff853eb81f50cb55f3.jpg",
+      "publishedAt": "2023-06-21T08:45:34+00:00",
+      "content": "<ul><li>New Zealand's women's cricket team will tour South Africa later this year.</li><li>The Proteas Women will tackle the White Ferns in three ODIs and five T20Is.</li><li>The series will take pla… [+3390 chars]"
+    },
+    {
+      "source": { "id": "abc-news", "name": "ABC News" },
+      "author": "RIO YAMAT and RICK BOWMER Associated Press",
+      "title": "Blood-red crickets invade Nevada town, residents fight back with brooms, leaf blowers, snow plows",
+      "description": "The small town of Elko in rural northeastern Nevada is being invaded by a swarm of blood-red crickets",
+      "url": "https://abcnews.go.com/US/wireStory/blood-red-crickets-invade-nevada-town-residents-fight-100246938",
+      "urlToImage": "https://s.abcnews.com/images/Weird/wirestory_3563fbe67c7ff25960e8c66a90ad3885_16x9_992.jpg",
+      "publishedAt": "2023-06-20T18:02:51Z",
+      "content": "ELKO, Nev. -- Dana Dolan was driving through her small Nevada hometown when she thought she had come upon a gory crash. The ground surrounding Elko's stretch of Interstate 80 looked as if it had been… [+4981 chars]"
+    },
+    {
+      "source": { "id": "espn-cric-info", "name": "ESPN Cric Info" },
+      "author": null,
+      "title": "PCB hands Umar Akmal three-year ban from all cricket | ESPNcricinfo.com",
+      "description": "Penalty after the batsman pleaded guilty to not reporting corrupt approaches | ESPNcricinfo.com",
+      "url": "http://www.espncricinfo.com/story/_/id/29103103/pcb-hands-umar-akmal-three-year-ban-all-cricket",
+      "urlToImage": "https://a4.espncdn.com/combiner/i?img=%2Fi%2Fcricket%2Fcricinfo%2F1099495_800x450.jpg",
+      "publishedAt": "2020-04-27T11:41:47Z",
+      "content": "Umar Akmal's troubled cricket career has hit its biggest roadblock yet, with the PCB handing him a ban from all representative cricket for three years after he pleaded guilty of failing to report det… [+1506 chars]"
+    },
+    {
+      "source": { "id": "espn-cric-info", "name": "ESPN Cric Info" },
+      "author": null,
+      "title": "What we learned from watching the 1992 World Cup final in full again | ESPNcricinfo.com",
+      "description": "Wides, lbw calls, swing - plenty of things were different in white-ball cricket back then | ESPNcricinfo.com",
+      "url": "http://www.espncricinfo.com/story/_/id/28970907/learned-watching-1992-world-cup-final-full-again",
+      "urlToImage": "https://a4.espncdn.com/combiner/i?img=%2Fi%2Fcricket%2Fcricinfo%2F1219926_1296x729.jpg",
+      "publishedAt": "2020-03-30T15:26:05Z",
+      "content": "Last week, we at ESPNcricinfo did something we have been thinking of doing for eight years now: pretend-live ball-by-ball commentary for a classic cricket match. We knew the result, yes, but we tried… [+6823 chars]"
+    }
+  ]
+}
